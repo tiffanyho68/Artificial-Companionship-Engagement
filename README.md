@@ -1,1 +1,1 @@
-Co-developed a customizable emotional support chatbot for a research study on human-robot emotional dependence and its relationship with mental health; designed and conducted a user study with student participants and documented in a CHI format research paper
+Co-developed a customizable emotional support chatbot for a research study on human-robot emotional dependence and its relationship with mental health; designed and conducted the user study with student participants and documented in a CHI format research paper
